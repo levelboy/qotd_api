@@ -1,3 +1,3 @@
-require ::File.expand_path('./../api/resources/quotes.rb', __FILE__)
+require ::File.expand_path('./../api/quotes.rb', __FILE__)
 
 run QuotesAPI
