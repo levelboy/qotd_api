@@ -6,5 +6,4 @@ gem 'bundler'
 
 gem 'puma'
 gem 'grape'
-gem 'grape-entity'
-
+gem 'grape-entity' 
