@@ -60,3 +60,4 @@ DEPENDENCIES
   grape
   grape-entity
   puma
+  rack
